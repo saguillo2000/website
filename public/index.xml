@@ -6,7 +6,20 @@
     <description>Recent content in OSGByte on OSGbyte</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/</guid>
+      <description>&lt;p&gt;Books are an amazing resource for acquiring knowledge in various fields. Reading the works of pioneers in their respective areas is one of the best ways to grow as a person.&lt;/p&gt;&#xA;&lt;h2 id=&#34;entrepreneurship&#34;&gt;Entrepreneurship&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Zero to One&lt;/em&gt; (Peter Thiel)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;human-psychology&#34;&gt;Human Psychology&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;How to Win Friends and Influence People&lt;/em&gt; (Dale Carnegie)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Surrounded by Idiots&lt;/em&gt; (Thomas Erikson)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;The Power of Positive Thinking&lt;/em&gt; (Norman Vincent Peale)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;The Psychology of Money&lt;/em&gt; (Morgan Housel)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;productivity&#34;&gt;Productivity&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Atomic Habits&lt;/em&gt; (James Clear)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Deep Work&lt;/em&gt; (Cal Newport)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Never Split the Difference: Negotiating as if Your Life Depended on It&lt;/em&gt; (Chris Voss)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;(PAGE BEING IN CONSTRUCTION)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quotes</title>
+      <link>http://localhost:1313/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quotes/</guid>
+      <description>&lt;p&gt;I like quotes, and I&amp;rsquo;m going to post the most beautiful ones to keep track of them.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;Sometimes the people who no one imagines anything of are the ones who do the things that no one can imagine.&amp;rdquo; — &lt;em&gt;Alan Turing&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Even in the darkest nights, the sun will always appear.&amp;rdquo; — &lt;em&gt;(Victor Hugo, Les Misérables)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Life is a set of emotions, and we are the result of them.&amp;rdquo; — &lt;em&gt;Myself&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
