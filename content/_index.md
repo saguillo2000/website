@@ -16,8 +16,8 @@ title = "OSGByte"
 
 </div>
 
-My passion for Computer Science and Economics has naturally led me to explore MEV and the world of cryptocurrency protocols. I’m always eager to learn new things and connect with people from around the world.
+My passion for Computer Science and Economics has led me into the explore of MEV and blockchain protocols. I’m always eager to learn new things and connect with people from around the world.
 
-I particularly enjoy research and engineering complex systems. Currently, I’m learning Rust 🦀 to build efficient bots for MEV and Poker, purely for fun.
+I particularly enjoy research and engineering complex systems. Currently, I’m learning Rust 🦀 to build efficient bots for MEV, playing Poker and improving investing strategies.
 
-I’m also working towards becoming an expert in protocol research.
+I’m also working towards becoming an expert in protocol research, I will start next year as a PhD student at IMDEA Networks under the supervision of Dr. Lucianna Kiffer.
