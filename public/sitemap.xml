@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/books/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-24T18:19:28+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/quotes/</loc>
   </url>
 </urlset>
