@@ -1,3 +1,9 @@
+:root {
+	--maincolor: #fa4b75;
+	--hovercolor: var(--maincolor);
+	--bordercl: #93213c;
+}
+
 
 footer {
 	border-top-style: dashed;
