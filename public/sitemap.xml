@@ -6,8 +6,14 @@
   </url><url>
     <loc>https://example.com/books/</loc>
   </url><url>
+    <loc>https://example.com/blog/deep-work/</loc>
+  </url><url>
     <loc>https://example.com/</loc>
   </url><url>
+    <loc>https://example.com/blog/philosophy/</loc>
+  </url><url>
     <loc>https://example.com/quotes/</loc>
+  </url><url>
+    <loc>https://example.com/what-is-talent/</loc>
   </url>
 </urlset>
