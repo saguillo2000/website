@@ -1,5 +1,6 @@
 +++
 title = "What is talent?"
+date = "2024-12-11T09:17:44-04:00"
 tags = ["philosophy", "deep work"]
 +++
 
