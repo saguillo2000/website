@@ -32,8 +32,12 @@ If you are looking for a Bachelor or Master’s thesis advisor, I am always happ
 
 **Beyond Research**
 
-I’m an aspiring polyglot currently learning Chinese. I am already fluent in Spanish, Catalan, and English (though I’ve found Japanese grammar to be a bit problematic :( )).
+I’m an aspiring polyglot currently learning Chinese. I am fluent in Spanish, Catalan, and English, and have reached an intermediate level in Japanese (around JLPT N3), though I’ll admit its grammar has given me a fair share of headaches.
 
-I have been playing chess since I was 10 and am drawn to any game involving deep strategy. I’m planning to dive into the world of Poker in the near future. Maybe Mahjong and Shogi also, who knows :)
+I have been playing chess since I was 10 and am drawn to any game involving deep strategy. Poker is next on the list, and Mahjong and Shogi are not far behind.
 
     Disclaimer: I am happy to discuss the theoretical or technical aspects of Prediction Markets, MEV, and DeFi security, but I do not provide financial advice or "get rich" strategies!
+
+**News**
+
+- **Jun 2026** — Visiting Student at [MPI-SWS](https://www.mpi-sws.org/) (Kaiserslautern), hosted by [Johnnatan Messias](https://johnnatan-messias.github.io/).
