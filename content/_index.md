@@ -16,8 +16,24 @@ title = "OSGByte"
 
 </div>
 
-My passion for Computer Science and Economics has led me into the explore of MEV and blockchain protocols. I’m always eager to learn new things and connect with people from around the world.
+I am currently a second-year PhD student at IMDEA Networks, where I am fortunate to be advised by Dr. Lucianna Kiffer.
 
-I particularly enjoy research and engineering complex systems. Currently, I’m learning Rust 🦀 to build efficient bots for MEV, playing Poker and improving investing strategies.
+Broadly speaking, my research interests lie at the intersection of Economics, Computation, and Society — a space full of fascinating open questions. More specifically, I focus on:
 
-I’m also working towards becoming an expert in protocol research, I will start next year as a PhD student at IMDEA Networks under the supervision of Dr. Lucianna Kiffer.
+- **Security in Blockchain**: MEV (Maximal Extractable Value) and economic attacks on Decentralized Finance protocols. How adversarial incentives shape the security and fairness of on-chain systems.
+
+- **Social Computing**: Understanding how people interact at scale and extracting meaningful insights from text and social interactions. I’m interested in the computational and economic lens through which we can study collective behavior.
+
+- **Mechanism Design & Algorithmic Game Theory**: Peer Prediction, Information Elicitation, and other subfields concerned with designing systems that incentivize honest and socially desirable behavior.
+
+**Collaboration & Mentorship**
+
+If you are looking for a Bachelor or Master’s thesis advisor, I am always happy to explore potential collaborations! I also enjoy providing guidance to those looking to break into the blockchain space.
+
+**Beyond Research**
+
+I’m an aspiring polyglot currently learning Chinese. I am already fluent in Spanish, Catalan, and English (though I’ve found Japanese grammar to be a bit problematic :( )).
+
+I have been playing chess since I was 10 and am drawn to any game involving deep strategy. I’m planning to dive into the world of Poker in the near future. Maybe Mahjong and Shogi also, who knows :)
+
+    Disclaimer: I am happy to discuss the theoretical or technical aspects of Prediction Markets, MEV, and DeFi security, but I do not provide financial advice or "get rich" strategies!
