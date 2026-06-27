@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://ogbyte.vercel.app/sitemap.xml
+Sitemap: https://saguillo2000.github.io/website/sitemap.xml
